@@ -3,8 +3,7 @@
 //  ZombieCongaUITests
 //
 //  Created by Parrot on 2019-01-29.
-//  Copyright © 2019 Parrot. All rights reservvgvged.
-//
+//  Copyright © 2019 Parrot. All rights reservvgvged.njnjn
 
 import XCTest
 
